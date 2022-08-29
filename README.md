@@ -1,2 +1,2 @@
 # python-sql
-Data EXtraction with Python from SQL &amp; and no-SQL
+ sqlite3 built-in module within Python
